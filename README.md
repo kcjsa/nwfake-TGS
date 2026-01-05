@@ -17,9 +17,9 @@
 - Endserver に接続するには別設定で IP 指定が必要
 - 一部デバッグログのみ出力（通信内容や操作履歴は残りません）
 - 追加機能:
-  - ドメインブロック: http://block_config.nfk
-  - HTTPS/NWFake 切替: http://switch_protocol.nfk/
-  - Endserver IP 設定: http://tunnel.nfk/
+  - ドメインブロック: `http://block_config.nfk`
+  - HTTPS/NWFake 切替: `http://switch_protocol.nfk/`
+  - Endserver IP 設定: `http://tunnel.nfk/`
 - **禁止事項**: 改造・逆コンパイル・解析は禁止
 
 ## Endserver
